@@ -1,4 +1,4 @@
-<h2 align="center">👋 ¡Hola! Soy Enrique, Desarrollador de Software apasionado por la calidad y la excelencia.</h2>
+<h2 align="center">👋 ¡Hola! Soy Enrique, Desarrollador de Software Fullstack.</h2>
 
 <div align="center">
   <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="400" />
@@ -8,7 +8,7 @@
 
 <h3 align="center">💡 Sobre mí</h3>
 <p align="left">
-  Soy un desarrollador con experiencia en tecnologías como C#, .NET, React y bases de datos. Actualmente estoy enfocado en mi transición hacia el área de Calidad de Software (QA), donde espero aplicar mis habilidades para garantizar aplicaciones estables, eficientes y libres de errores.
+  Soy un desarrollador con experiencia en tecnologías como C#, .NET, React y bases de datos. Actualmente estoy enfocado en mi transición hacia el área de Calidad de Software (QA), donde espero aplicar mis habilidades para garantizar aplicaciones estables, eficientes y libres de errores. Además, estoy estudiando la Licenciatura en Informática y Sistemas de Calidad, lo que complementa mi formación técnica y me permite adquirir un enfoque integral para mejorar la calidad del software.
 </p>
 
 ### 
@@ -25,7 +25,7 @@
 ### 
 
 <h3 align="center">🛠 Tecnologías y herramientas</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET logo" />
