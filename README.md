@@ -1,46 +1,31 @@
-<h2 align="center">👋 ¡Hola! Soy Enrique, Desarrollador de Software apasionado por la calidad y el detalle.</h2>
+<h2 align="center">👋 ¡Hola! Soy Enrique, Desarrollador de Software apasionado por la calidad y la excelencia.</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="600" />
-</div>
-
-### 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owllain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owllain&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="600" />
+  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="400" />
 </div>
 
 ### 
 
 <h3 align="center">💡 Sobre mí</h3>
 <p align="left">
-  Soy Enrique, un desarrollador de software con experiencia en tecnologías como C#, .NET, React y bases de datos. Actualmente, me encuentro enfocando mi carrera en el área de Calidad de Software (QA), con el propósito de asegurar que cada aplicación que toque brinde una experiencia impecable al usuario.
+  Soy un desarrollador con experiencia en tecnologías como C#, .NET, React y bases de datos. Actualmente estoy enfocado en mi transición hacia el área de Calidad de Software (QA), donde espero aplicar mis habilidades para garantizar aplicaciones estables, eficientes y libres de errores.
 </p>
 
 ### 
 
 <h3 align="center">🎯 Mis objetivos profesionales</h3>
 <ul align="left">
-  <li>📚 Dominar herramientas y metodologías de prueba como Selenium, Postman y Cypress.</li>
-  <li>🔍 Aprender a diseñar y automatizar pruebas para aplicaciones complejas.</li>
-  <li>🤝 Contribuir en equipos de desarrollo para garantizar la entrega de software libre de errores.</li>
-  <li>🚀 Participar en proyectos desafiantes que combinen desarrollo y control de calidad.</li>
-  <li>🌟 Convertirme en un referente en QA, ayudando a otros a comprender la importancia de las pruebas y estándares de calidad.</li>
+  <li>📚 Perfeccionar mis conocimientos en herramientas de pruebas como Selenium, Cypress y Postman.</li>
+  <li>🤖 Dominar la automatización de pruebas para mejorar la eficiencia y la calidad del desarrollo.</li>
+  <li>🛠 Participar en equipos que promuevan estándares de calidad en proyectos innovadores.</li>
+  <li>📊 Contribuir al diseño de estrategias de QA que aseguren entregables impecables.</li>
+  <li>🌟 Convertirme en un líder técnico en el área de QA, inspirando a otros a priorizar la calidad en cada etapa del desarrollo.</li>
 </ul>
-
-<div align="center">
-  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="600" />
-</div>
 
 ### 
 
 <h3 align="center">🛠 Tecnologías y herramientas</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET logo" />
@@ -56,10 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="600" />
-</div>
-
 ### 
 
 <h3 align="center">📬 Conecta conmigo</h3>
@@ -73,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/q9mBjuc.png" alt="footer" width="800" />
+  <img src="https://i.imgur.com/q9mBjuc.png" alt="footer" width="600" />
 </div>
