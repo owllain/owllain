@@ -1,7 +1,7 @@
 <h2 align="center">👋 ¡Hola! Soy Enrique, Ingeniero en Informática y Desarrollador.</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/sntRv1D.png" alt="separador" width="400" />
+  <img src="https://i.imgur.com/Weqpiiu.png" alt="separador" width="400" />
 </div>
 
 ### 
