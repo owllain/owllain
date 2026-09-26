@@ -55,5 +55,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/q9mBjuc.png" alt="footer" width="600" />
+  <img src="https://i.imgur.com/cOgweBv.png" alt="footer" width="600" />
 </div>
