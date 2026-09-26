@@ -16,7 +16,7 @@
 <h3 align="center">🎯 Mis objetivos profesionales</h3>
 <ul align="left">
   <li>🚀 Diseñar e implementar flujos de trabajo automatizados y aplicaciones low-code que optimicen procesos empresariales críticos.</li>
-  <li>🤖 Aportar a la adopción y regulación de nuevas tecnologías a nivel nacional desde la Comisión de Inteligencia Artificial del CPIC.</li>
+  <li>🤖 Aportar a la adopción y regulación de nuevas tecnologías a nivel nacional en Costa Rica desde la Comisión de Inteligencia Artificial del CPIC.</li>
   <li>🛠 Desarrollar y mantener arquitecturas backend robustas y seguras utilizando .NET, asegurando la integridad de datos en entornos de alta exigencia.</li>
   <li>📊 Liderar la modernización de sistemas integrando metodologías como Scrum, Kanban y Lean Six Sigma para maximizar la calidad del software.</li>
 </ul>
